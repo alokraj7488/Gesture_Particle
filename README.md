@@ -63,6 +63,7 @@ Want to add your own shape?
 4. Assign a color in the animation loop
 
 Example:
+```js
 Templates.MY_SHAPE = () => {
   const arr = [];
   for (let i = 0; i < particleCount; i++) {
