@@ -1,4 +1,4 @@
-# Gesture Particles (No Spin)
+# Gesture Particles
 
 An interactive, real-time web art installation that transforms your hand gestures into mesmerizing 3D particle sculptures using **MediaPipe Hands** for hand tracking and **Three.js** for GPU-accelerated visuals.
 
